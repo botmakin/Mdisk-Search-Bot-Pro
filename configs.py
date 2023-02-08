@@ -12,7 +12,7 @@ class Config(object):
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID"))
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Mdisk_search_re_bot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "5104293442"))
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "5921087216"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Ipapcorn_helper")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "ipapcornsupport")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME", "ipapcornsupport")
